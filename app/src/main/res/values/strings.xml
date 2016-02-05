@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beacon Detector</string>
+    <string name="send_log">send log</string>
+    <string name="device_brand"><![CDATA[<font color=\'#727272\'>Device brand: </font> <font color=\'#212121\'>%1$s</font>]]></string>
+    <string name="device_name"><![CDATA[<font color=\'#727272\'>Device name: </font> <font color=\'#212121\'>%1$s</font>]]></string>
+    <string name="wifi_enable"><![CDATA[<font color=\'#727272\'>WiFi is enable: </font> <font color=\'#212121\'>%1$s</font>]]></string>
+    <string name="android_version"><![CDATA[<font color=\'#727272\'>Android version: </font> <font color=\'#212121\'>%1$d</font>]]></string>
+</resources>
